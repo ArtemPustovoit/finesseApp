@@ -1,0 +1,6 @@
+git remote add origin https://github.com/ArtemPustovoit/finesseApp.git
+git add .
+git status
+git push --set-upstream origin master
+git commit -m 'name'
+git push
